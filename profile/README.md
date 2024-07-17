@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-[![DOI](https://zenodo.org/badge/11110630.svg)](https://zenodo.org/badge/latestdoi/11110630)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11110630.svg)](https://doi.org/10.5281/zenodo.11110630)
 
 <!-- badges: end -->
 
@@ -44,7 +44,7 @@ collection efforts.
 ## Data and code availability
 
 The data that support our work are made openly available at
-10.5281/zenodo.11110630
+<https://doi.org/10.5281/zenodo.11110630>
 
 ## References
 
