@@ -33,7 +33,7 @@ Using the World Checklist of Vascular Plants (WCVP) and a range of
 species- and human-related variables known to influence species
 discovery and detection, our team model the time to species’ first
 description and geolocation to predict how many species are currently
-scientifically unknown and lack geolocation (Ondo et al. 2023). We
+scientifically unknown and lack geolocation (Ondo et al., n.d.). We
 investigate (mis-)matches between the 36 known biodiversity hotspots
 (i.e., areas with exceptional concentration of endemic and threatened
 species) and areas with most important gaps in taxonomic and geographic
@@ -50,13 +50,12 @@ The data that support our work are made openly available at
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
-<div id="ref-Ondo2023.09.12.557387" class="csl-entry">
+<div id="ref-Ondoetal2024" class="csl-entry">
 
 Ondo, Ian, Kiran L. Dhanjal-Adams, Samuel Pironon, Daniele Silvestro,
-Victor Deklerck, Olwen M. Grace, Alexandre K. Monro, Nicky Nicolson,
-Barnaby Walker, and Alexandre Antonelli. 2023. “Plant Diversity
-Darkspots for Global Collection Priorities.” *bioRxiv*.
-<https://doi.org/10.1101/2023.09.12.557387>.
+Matheus Colli-Silva, Victor Deklerck, Olwen M. Grace, et al. n.d. “Plant
+Diversity Darkspots for Global Collection Priorities.” *New Phytologist*
+n/a (n/a). https://doi.org/<https://doi.org/10.1111/nph.20024>.
 
 </div>
 
